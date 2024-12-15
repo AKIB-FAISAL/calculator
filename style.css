@@ -70,9 +70,9 @@ button{
 
 @media (max-width: 480px) {
     .calculator {
+        width: 80vw; 
+        max-width: 300px; 
         padding: 12px;
-        width: 95%;
-    }
     input {
         font-size: 22px;
         padding: 12px;
